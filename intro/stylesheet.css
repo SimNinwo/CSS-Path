@@ -1,5 +1,5 @@
 * {
-    color: whitesmoke;
+    color: rgb(2, 245, 83);
 }
 
 body {
@@ -17,4 +17,5 @@ p {
 
 div {
     width: 50%;
+    font-size: medium;
 }
