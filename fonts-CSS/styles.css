@@ -1,0 +1,31 @@
+body {
+    background-color: #cccc99;
+    font-family: sans-serif;
+}
+
+.code {
+    font-family: monospace;
+    font-size: 0.9em;
+}
+
+.copyright {
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+ol {
+    font: italic 0.9em serif;
+}
+
+h1 {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.content {
+    background: #eeeecc;
+    text-align: justify;
+    line-height: 1.5em;
+    padding: 7px;
+}
